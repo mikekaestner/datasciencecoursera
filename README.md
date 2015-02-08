@@ -1,2 +1,2 @@
 # datasciencecoursera
-File for datascience course on Corsera
+Files for datascience course on Corsera
